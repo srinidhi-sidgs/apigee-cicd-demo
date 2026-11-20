@@ -15,7 +15,7 @@
   </PreFlow>
 
   <HTTPProxyConnection>
-    <BasePath>/training-indian-air-flights-vs-code</BasePath>
+    <BasePath>/training-indian-air-flights-vs-code-003</BasePath>
   </HTTPProxyConnection>
   <RouteRule name="backend">
     <TargetEndpoint>backend</TargetEndpoint>
